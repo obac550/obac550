@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @obac550
-- 👀 I’m interested in edTech, digital and traditional story telling techniques and creating engaging learning experiences for 11-24 age range.
-- 🌱 I design and develop WebApps and reusable components using a host of Modern Web Stack tech i.e JavaScript, TypeScript, NextJS, ReactJS, Headless CMS, GraphQL, Apollo, Framer, Figma, Adobe suite.
-- 💞️ In my spare time I like to cook, writing and working out at the gym.
+- 👀 I’m interested in WEB3.0 for digital and traditional story-telling to create engaging learning experiences for all.
+- 🌱 I design and develop WebAppsand Dapps using a host of Modern Web Stack tech.
+- 💞️ In my spare time I like to cook, do d.i.y, code, writing and work out at the gym.
 - 📫 How to reach me ... new web presence under construction launch TBA. 
 
 <!---
