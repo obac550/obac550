@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @obac550
-- 👀 I’m interested in WEB3.0 for digital and traditional story-telling to create engaging learning experiences for all.
-- 🌱 I design and develop WebAppsand Dapps using a host of Modern Web Stack tech.
-- 💞️ In my spare time I like to cook, do d.i.y, code, writing and work out at the gym.
-- 📫 How to reach me ... new web presence under construction launch TBA. 
+- 👋 Hiya, I’m @obac550
+- 👀 I develop NFT platforms and WEB 3.0 dapps for digital marketing to create engaging learning experiences for ALL
+- 🌱 Using a host of Modern Web Stack tech.
+- 💞️ In my spare time I love to cook, do d.i.y, code and hit the gym.
+- 📫 In  the meantime... Ya know how to reach me! (({ o })) 
 
 <!---
 obac550/obac550 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
