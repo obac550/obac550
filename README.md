@@ -1,7 +1,8 @@
-- 👋 Hiya, I’m @obac550
-- 👀 I develop NFT platforms and WEB 3.0 dapps for digital marketing and to create engaging learning experiences
-- 🌱 Using a host of Modern Web Stack tech.
-- 💞️ In my spare time I love to cook, do d.i.y, code and hit the gym.
+Who   < 👋 Hiya, I’m @obac550 />
+Where < The Igwe of London, England />
+Why   < To empower Web3.0 communitys by combining virality, utility and originality />
+What  < Dapps that create engaging learning experiences />
+How   < Mostly rubber-ducking it using stackoverflow and github 😊 />
 
 <!---
 obac550/obac550 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
