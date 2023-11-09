@@ -1,4 +1,4 @@
-Who   👋  @obac550...Hi
+Who   👋  @obac550... Hi
 Where ☔  The Igwe of London, England
 Why   🚀  To empower Web3.0 communitys... utility + originality = virility
 What  🧠  Dapps that create engaging learning experiences
